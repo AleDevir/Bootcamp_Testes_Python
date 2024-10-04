@@ -48,16 +48,5 @@ class TestStrToBool(unittest.TestCase):
             str_to_bool(1)
 
 
-
-
-
-
-
-
-
-
-
-
-
 if __name__ == '__main__':
     unittest.main()
