@@ -1,7 +1,10 @@
 '''
 Módulo Pytest Avançado
 https://learn.microsoft.com/pt-br/training/modules/python-advanced-pytest/5-exercise
-comando para executar o teste: pytest -v test_avanced.py
+
+execução na raiz do projeto 'Bootcamp_Testes_Python': pytest exercicio_pytest_avancado -v
+
+execução no diretório 'exercicio_pytest_avancado': pytest -v test_advanced.py
 '''
 import os
 import pytest 

@@ -1,7 +1,11 @@
 '''
 Módulo unittest
 https://learn.microsoft.com/pt-br/training/modules/python-get-started-testing/3-exercise
-Execução do teste: python test_exercise.py 
+
+execução na raiz do projeto 'Bootcamp_Testes_Python': python exercicio_unittest/test_exercise.py 
+
+execução no diretório 'exercicio_unittest': python test_exercise.py 
+
 '''
 import unittest
 

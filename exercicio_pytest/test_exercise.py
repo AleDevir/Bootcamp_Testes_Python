@@ -1,7 +1,10 @@
 '''
 Módulo Pytest
 https://learn.microsoft.com/pt-br/training/modules/test-python-with-pytest/5-exercise
-execução do teste: pytest -v test_exercise.py
+
+execução na raiz do projeto 'Bootcamp_Testes_Python': pytest exercicio_pytest -v
+
+execução no diretório 'exercicio_pytest': pytest -v test_exercise.py
 '''
 import pytest
 
@@ -17,5 +20,3 @@ def admin_command(command, sudo=True):
         return ["sudo"] + command
     return command
 
-   
-   
