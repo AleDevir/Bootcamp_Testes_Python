@@ -6,7 +6,6 @@
 Integrantes:
 - Alessandra Ribeiro Guimarães
 - Daiany Aparecida de Morais
-- Érika Brito Correia
 - Fabiane Cavalheiro dos Santos
 - Mayla Silva de Siqueira Krama
 - Rafaela Clementino Pereira Caro
