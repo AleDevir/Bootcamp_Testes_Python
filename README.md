@@ -15,7 +15,9 @@ Comando para instalação dos pacotes:
 pip install -r requirements.txt 
 
 ```
-#Para executar todos os testes na raiz do projeto 'Bootcamp_Testes_Python':
+Para executar todos os testes na raiz do projeto 'Bootcamp_Testes_Python':
 ```
 pytest exercicio_pytest_avancado exercicio_unittest exercicio_pytest -v
 ```
+Distribuição das atividades:
+![image](https://github.com/user-attachments/assets/92673492-2cad-4c22-99b7-8335e5631873)
